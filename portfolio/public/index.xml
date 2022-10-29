@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Carolina Gomes</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ana Carolina Gomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 28 Oct 2022 22:36:46 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>http://example.org/pages/tech/</link>
+      <pubDate>Fri, 28 Oct 2022 22:36:46 -0300</pubDate>
+      
+      <guid>http://example.org/pages/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/pages/publications/</link>
+      <pubDate>Fri, 28 Oct 2022 22:36:39 -0300</pubDate>
+      
+      <guid>http://example.org/pages/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>http://example.org/pages/bio/</link>
+      <pubDate>Fri, 28 Oct 2022 22:36:30 -0300</pubDate>
+      
+      <guid>http://example.org/pages/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://example.org/posts/tech/</link>
+      <pubDate>Fri, 28 Oct 2022 22:12:43 -0300</pubDate>
+      
+      <guid>http://example.org/posts/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/posts/publications/</link>
+      <pubDate>Fri, 28 Oct 2022 22:12:34 -0300</pubDate>
+      
+      <guid>http://example.org/posts/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>http://example.org/posts/bio/</link>
+      <pubDate>Fri, 28 Oct 2022 22:12:19 -0300</pubDate>
+      
+      <guid>http://example.org/posts/bio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
