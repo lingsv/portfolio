@@ -6,3 +6,4 @@ theme = "hyde"
 [params]
 
 description = "Portfolio pessoal"
+publishDir = "docs"
