@@ -1,4 +1,4 @@
-baseURL = "https://lingsv.netlify.app"
+baseURL = "https://lingsv.github.io/portfolio/"
 languageCode = "pt-br"
 title = "Ana Carolina Gomes da Silva"
 theme = "hyde"
